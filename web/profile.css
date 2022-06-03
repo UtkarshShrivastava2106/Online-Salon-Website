@@ -1,0 +1,54 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 15-Feb-2022, 11:48:56 am
+    Author     : utkar
+*/
+
+body {
+    background: #ff1493;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-color:#ff1493
+}
+
+.profile-button {
+    background: #fff;
+    color: #ff1493;
+    box-shadow: none;
+    border: 1px solid #ff1493; 
+}
+
+.profile-button:hover {
+    background: #ff1493
+}
+
+.profile-button:focus {
+    background: #ff1493;
+    box-shadow: none
+}
+
+.profile-button:active {
+    background: #ff1493;
+    box-shadow: none
+}
+
+.back:hover {
+    color: #ff1493;
+    cursor: pointer
+}
+
+.labels {
+    font-size: 11px
+}
+
+.add-experience:hover {
+    background: #ff1493;
+    color: #fff;
+    cursor: pointer;
+    border: solid 1px #ff1493
+}
